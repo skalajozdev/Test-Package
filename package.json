@@ -14,8 +14,11 @@
     "keyword3"
   ],
   "author": {
-    "name": "Jozef Sk\u00e1la",
+    "name": "Jozef Skála",
     "email": "skalajozef@gmail.com",
     "url": "https://www.unity3d.com"
+  },
+  "dependencies": {
+    "file-type": "^16.5.3"
   }
 }
