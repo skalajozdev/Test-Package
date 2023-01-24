@@ -17,8 +17,5 @@
     "name": "Jozef Sk\u00e1la",
     "email": "skalajozef@gmail.com",
     "url": "https://www.unity3d.com"
-  },
-  "publishConfig": {
-    "registry": "http://localhost:4873"
   }
 }
